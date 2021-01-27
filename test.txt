@@ -3,3 +3,4 @@ https://forum.arduino.cc/index.php?topic=254558.0
 http://www.cyberspice.org.uk/blog/2009/10/29/boarduino-vivarium-temperature-monitor/
 https://sprosi.pro/questions/9869/sohranenie-dannyih-datchika-arduino-v-tekstovyiy-fayl
 http://localhost/phpmyadmin/
+metanit.com/web/php/5.4.php
